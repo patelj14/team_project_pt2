@@ -38,6 +38,7 @@ The repository is structured as follows:
 Team-Project-Part-1/
 
 ├── data/
+
 │   ├── raw/                  # Raw data files
 
 │   └── processed/            # Processed data files
@@ -48,7 +49,7 @@ Team-Project-Part-1/
 ├── deep_learning_analysis/   # Jupyter notebooks for deep learning model exploration and analysis 
     ├── ANN/                  # Exploration and analysis of CNN model
 
-    └── .../                  # Further exploration and analysis of deep learning models
+    └──                       # Further exploration and analysis of deep learning models
 
 ├── README.md                 # Project documentation
 
