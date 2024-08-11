@@ -22,6 +22,10 @@ To build and validate our models, the following patient data will be required:
 ## Potential Outcome
 The primary outcome of this project is to develop a predictive model that can accurately assess the risk of heart disease. This model will aid in early detection and support preventive healthcare planning.
 
+## Report
+For a detailed report on the project, including methodology, analysis, and conclusions, please refer to the full report available [here](https://docs.google.com/document/d/1Jt6RywyD9YCvIIcezEJz1pjR-1z9-R56Ws_B3oGQuqM/edit?usp=sharing).
+
+
 ## Resources
 
 ### Datasets
