@@ -1,7 +1,7 @@
 # Heart Disease Assessment Model
 
 ## Objective
-The objective of this project is to create a model that assesses the risk of heart disease based on basic patient data. The model will use simple regression techniques to predict the likelihood of heart disease. An advancement of this project is to use deep learning methods to develop a model in order to assess the risk of heart disease based on patient data. The deep learning models include CNN and neural networks. 
+The objective of this project is to create a model that assesses the risk of heart disease based on basic patient data. The model will use simple regression techniques to predict the likelihood of heart disease. An advancement of this project is to use deep learning methods to develop a model in order to assess the risk of heart disease based on patient data.
 
 ## Data Required
 To build and validate our model, the following patient data will be required:
@@ -35,24 +35,19 @@ The primary outcome of this project is to develop a predictive model that can ac
 ## Project Structure
 The repository is structured as follows:
 
-Team-Project-Part-1/
+## Project Structure
+
+```plaintext
+.
+Team-Project-Part-2/
 
 ├── data/
-
 │   ├── raw/                  # Raw data files
-
 │   └── processed/            # Processed data files
-
 ├── reports/                  # Jupyter notebooks for simple model exploration and analysis
-
-
 ├── deep_learning_analysis/   # Jupyter notebooks for deep learning model exploration and analysis 
-
 │   ├── ANN/                  # Exploration and analysis of ANN model
-
 ├── README.md                 # Project documentation
-
-
 
 
 # Steps to Implement the Project
