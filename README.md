@@ -48,7 +48,7 @@ Team-Project-Part-1/
 
 ├── deep_learning_analysis/   # Jupyter notebooks for deep learning model exploration and analysis 
 
-    ├── ANN/                  # Exploration and analysis of CNN model
+│   ├── ANN/                  # Exploration and analysis of CNN model
 
 ├── README.md                 # Project documentation
 
