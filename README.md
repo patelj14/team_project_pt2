@@ -31,25 +31,6 @@ The primary outcome of this project is to develop a predictive model that can ac
 - [Cardiovascular Disease Dataset on Kaggle] (https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
   - The dataset consists of 70 000 records of patients data, 11 features + target.
 
-
-## Project Structure
-The repository is structured as follows:
-
-## Project Structure
-
-```plaintext
-.
-Team-Project-Part-2/
-
-├── data/
-│   ├── raw/                  # Raw data files
-│   └── processed/            # Processed data files
-├── reports/                  # Jupyter notebooks for simple model exploration and analysis
-├── deep_learning_analysis/   # Jupyter notebooks for deep learning model exploration and analysis 
-│   ├── ANN/                  # Exploration and analysis of ANN model
-├── README.md                 # Project documentation
-
-
 # Steps to Implement the Project
 
 ## 1. Data Collection and Preparation
@@ -118,4 +99,19 @@ Team-Project-Part-2/
 
 - **Model Development**:
   - Start with simple models before moving to complex ones.
+
+
+## Project Structure
+
+```plaintext
+.
+Team-Project-Part-2/
+
+├── data/
+│   ├── raw/                  # Raw data files
+│   └── processed/            # Processed data files
+├── reports/                  # Jupyter notebooks for simple model exploration and analysis
+├── deep_learning_analysis/   # Jupyter notebooks for deep learning model exploration and analysis 
+│   ├── ANN/                  # Exploration and analysis of ANN model
+├── README.md                 # Project documentation
 
