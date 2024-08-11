@@ -39,12 +39,19 @@ Team-Project-Part-1/
 
 ├── data/
 │   ├── raw/                  # Raw data files
+
 │   └── processed/            # Processed data files
+
 ├── reports/                  # Jupyter notebooks for simple model exploration and analysis
+
+
 ├── deep_learning_analysis/   # Jupyter notebooks for deep learning model exploration and analysis 
-    ├── CNN/                  # Exploration and analysis of CNN model
+    ├── ANN/                  # Exploration and analysis of CNN model
+
     └── .../                  # Further exploration and analysis of deep learning models
+
 ├── README.md                 # Project documentation
+
 
 
 
